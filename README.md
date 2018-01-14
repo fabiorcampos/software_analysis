@@ -1,2 +1,2 @@
-# predict_2017
-Análises do predict2017 para indústria de software
+# Software Analysis
+Análise do setor de software via Predict-2017, Bibliometria e Pintec. 
